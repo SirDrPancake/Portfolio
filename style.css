@@ -1,0 +1,44 @@
+
+  
+  body {
+    font-family: 'Bellota', cursive;
+    font-size: 26pt;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 15pt;
+    color: #ffffff;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+  }
+  
+  .section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+
+  img {
+    max-width: 300px;
+    max-height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+  
+  #contacts img {
+    height: 150px;
+    width: 150px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  
+  #contacts a {
+    text-decoration: none;
+  }
